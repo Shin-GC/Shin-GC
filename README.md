@@ -1,3 +1,3 @@
-👋 
-### Name : Shin Gwang Cheon
-- 👀 Langauge : Python
+### 👋 Hello!:) 
+#### 🐈Name : Shin Gwang Cheon
+#### 🐣Langauge : Python
