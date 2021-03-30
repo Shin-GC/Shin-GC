@@ -1,2 +1,2 @@
-# Name : Shin Gwang Cheon
+### Name : Shin Gwang Cheon
 - 👀 Langauge : Python
