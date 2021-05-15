@@ -2,4 +2,4 @@
 #### 🐈Name : Shin Gwang Cheon
 #### 🐣Language : Python
 
-### Notion : https://www.notion.so/Machine-Learning-208850051c8e4099b66d9b2291f58b7d
+### Notion : https://www.notion.so/shingc/310c05eff2a04f9eb68cd2d813e11b56?v=60753805dbf049b2a92ad2ed64ac7184
