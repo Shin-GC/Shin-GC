@@ -1,6 +1,6 @@
 ### 👋 Hello!:) 
 #### 🐈Name : Shin Gwang Cheon
-#### 🐣Language : Python
+#### 🐣Skill : Python, Django, MongoDB, MySQL, Flask
 
-### Gitgub : https://github.com/Shin-GC?tab=repositories
-### Tistoriy : https://programmers-sosin.tistory.com/
+### Gitgub : [바로가기](https://github.com/Shin-GC?tab=repositories)
+### Tistoriy : [바로가기](https://programmers-sosin.tistory.com/)
