@@ -26,6 +26,7 @@
   <a href="mailto:tlsrhkdcjs12@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
 ![My](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/languages.svg)
 
 ![My2](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/overview.svg)
