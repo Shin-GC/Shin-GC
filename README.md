@@ -26,3 +26,4 @@
   <a href="mailto:tlsrhkdcjs12@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsrhkdcjs12@naver.com&show_icons=true&theme=buefy)
