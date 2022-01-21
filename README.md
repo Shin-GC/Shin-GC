@@ -27,6 +27,6 @@
 </p>
 <br>
 <div align="center">
-  ![My](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/languages.svg)
-  ![My2](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/overview.svg)
+![My](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/languages.svg)
+![My2](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/overview.svg)
 </div>
