@@ -17,7 +17,7 @@
 <h3 align="center">Frameworks</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-%2344A833.svg?style=for-the-badge&logo=Django"/>
-<img src="https://img.shields.io/badge/Flask-F2F4F9?style=for-the-badge&logo=Flask"/>
+<img src="https://img.shields.io/badge/Flask?style=for-the-badge&logo=Flask"/>
  <img src="https://img.shields.io/badge/React-43B02A?style=for-the-badge&logo=React&logoColor=white"/>
   <br> 
 </p>
