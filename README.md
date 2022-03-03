@@ -18,9 +18,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=for-the-badge&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp 
 
-<img src="https://img.shields.io/badge/React-43B02A?style=for-the-badge&logo=React&logoColor=blue"/>
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=for-the-badge&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
   <br> 
 </p>
 
