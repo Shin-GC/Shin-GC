@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/scikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp 
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=for-the-badge&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
 
