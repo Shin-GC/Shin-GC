@@ -11,14 +11,14 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-%2344A833.svg?style=for-the-badge&logo=Django"/>
 <img src="https://img.shields.io/badge/Flask-%2344A833.svg?style=for-the-badge&logo=Flask&logoColor=black"/>
- <img src="https://img.shields.io/badge/React-43B02A?style=for-the-badge&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-43B02A?style=for-the-badge&logo=React&logoColor=blue"/>
   <br> 
 </p>
 
