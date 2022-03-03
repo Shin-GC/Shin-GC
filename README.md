@@ -45,9 +45,11 @@
 </p>
 
 
-<h3 align="center"> Mail</h3>
+<h3 align="center"> Connect </h3>
 <p align="center">
   <a href="mailto:tlsrhkdcjs12@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+ 
 </p>
 <br>
 <div align="center">
