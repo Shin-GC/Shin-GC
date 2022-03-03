@@ -16,11 +16,11 @@
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Django-%2344A833.svg?style=for-the-badge&logo=Django"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=for-the-badge&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
-<img src="https://img.shields.io/badge/Flask-%2344A833.svg?style=for-the-badge&logo=Flask&logoColor=black"/>
- <img src="https://img.shields.io/badge/React-43B02A?style=for-the-badge&logo=React&logoColor=blue"/>
+<img src="https://img.shields.io/badge/React-43B02A?style=for-the-badge&logo=React&logoColor=blue"/>
   <br> 
 </p>
 
