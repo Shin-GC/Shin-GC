@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GwangCheonShin&fontSize=70&animation=twinkling)
 
-<h3 align="center">``Technical Skills``</h3>
+<h3 align="center">🛠 Technical Skills </h3>
 
 <h3 align="center">Language<h3>
 <p align="center">
