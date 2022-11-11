@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GwangCheonShin&fontSize=70&animation=twinkling)
-
-<h3 align="center">🛠 Technical Skills 🛠</h3>
+<h3 align="center">Cloud Service</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+<br>
+</p>
 
 <h3 align="center">Language<h3>
 <p align="center">
@@ -24,7 +28,11 @@
   <img src="https://img.shields.io/badge/postgresql-003B57?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
-
+<h3 align="center"> Service </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/> 
+</p>
 <h3 align="center"> Connect </h3>
 <p align="center">
   <a href="mailto:tlsrhkdcjs12@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
