@@ -28,7 +28,7 @@
 <h3 align="center"> Connect </h3>
 <p align="center">
   <a href="mailto:tlsrhkdcjs12@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/><a href="https://velog.io/@soshin_dev"></a>
+  <a href="https://velog.io/@soshin_dev"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
  
 </p>
 <br>
