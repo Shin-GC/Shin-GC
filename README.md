@@ -19,13 +19,14 @@
 <img src="https://img.shields.io/badge/Nestjs-000000?style=flat&logo=Nestjs&logoColor=red"/></a>&nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=Angular&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white"/></a>&nbsp 
   <br> 
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
 <h3 align="center"> Service </h3>
