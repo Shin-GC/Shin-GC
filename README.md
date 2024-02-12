@@ -1,8 +1,9 @@
 <h1 align="left">
-Hi!, I'm Shin :D! Welcome to my Github
-	<a href="https://github.com/shin-GC" target="_self">
-	  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhlbncxNnIwNmpjbTd3dmdwZjY1b25mcWZqcjdkanoyYWJ2aGd4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/anywqD5u93KuCtpPfH/giphy.gif" width="30">
-	</a>
+Hi!, I'm Shin :D!<br> 
+Welcome to my Github
+<a href="https://github.com/shin-GC" target="_self">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhlbncxNnIwNmpjbTd3dmdwZjY1b25mcWZqcjdkanoyYWJ2aGd4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/anywqD5u93KuCtpPfH/giphy.gif" width="30">
+</a>
 </h1>
 <h3 align="left">Cloud Service</h3>
 <p align="left">
