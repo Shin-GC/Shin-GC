@@ -2,7 +2,7 @@
 Hi!, I'm Shin :D!<br> 
 Welcome to my Github
 <a href="https://github.com/shin-GC" target="_self" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRzMmVjb24yMjA0dWd4NGpsZmc3NXU5N3dwM3prdTAyZm16aWs4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyELaYTD1Q9lYStywD/giphy.gif" width="50">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRzMmVjb24yMjA0dWd4NGpsZmc3NXU5N3dwM3prdTAyZm16aWs4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyELaYTD1Q9lYStywD/giphy.gif" width="5%">
 </a>
 </h1>
 <h3 align="left">Cloud Service</h3>
