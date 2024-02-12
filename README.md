@@ -5,6 +5,8 @@ Welcome to my Github
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRzMmVjb24yMjA0dWd4NGpsZmc3NXU5N3dwM3prdTAyZm16aWs4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyELaYTD1Q9lYStywD/giphy.gif" width="5%">
 </a>
 </h1>
+
+<h1> Skills </h1>
 <h3 align="left">Cloud Service</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
