@@ -3,7 +3,7 @@ Hi!👋 I'm Shin :D!<br>
 Welcome to my Github🎉
 </h1>
 
-<h2>💻Skills </h1>
+<h2>💻Skills </h2>
 <h3 align="left">Cloud Service</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
