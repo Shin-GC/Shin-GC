@@ -2,7 +2,9 @@
 Hi!👋 I'm Shin :D!<br> 
 Welcome to my Github🎉
 </h1>
-
+<pre>
+  👨‍💻I'm always learning and discussing with the goal of becoming a developer you want to work with.
+</pre>
 <h2>💻Skills </h2>
 <h5 align="left">Cloud Service</h5>
 <p align="left">
