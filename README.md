@@ -15,7 +15,6 @@ Welcome to my Github🎉
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-323330?style=flat&logo=typescript&logoColor=blue"/>
-  <br>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
