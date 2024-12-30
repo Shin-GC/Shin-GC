@@ -46,11 +46,4 @@ Welcome to my Github🎉
   <a href="https://velog.io/@soshin_dev"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
  
 </p>
-<br>
-<div align="left">
-
- ![My2](https://github.com/Shin-GC/github-stats-transparent/blob/output/generated/overview.svg)
-  
-  
-</div>
 
