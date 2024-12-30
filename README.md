@@ -5,14 +5,6 @@ Welcome to my Github🎉
 <pre>
   👨‍💻I'm always learning and discussing with the goal of becoming a developer you want to work with.
 </pre>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Shin-GC"
-    width="600"
-    height="120"
-  />
-</a>
   
 <h2>💻Skills </h2>
 <h5 align="left">Cloud Service</h5>
