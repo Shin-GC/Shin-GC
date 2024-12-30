@@ -1,7 +1,4 @@
-<h1 align="left">
-Hi!👋 I'm Shin :D!<br> 
-Welcome to my Github🎉
-</h1>
+
 <pre>
   👨‍💻I'm always learning and discussing with the goal of becoming a developer you want to work with.
 </pre>
