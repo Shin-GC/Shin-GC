@@ -1,6 +1,6 @@
 
 <pre>
-  👨‍💻I'm always learning and discussing with the goal of becoming a developer you want to work with.
+  👨‍💻"I'm constantly learning and engaging with others to become a developer others aspire to work with."
 </pre>
   
 <h2>💻Skills </h2>
